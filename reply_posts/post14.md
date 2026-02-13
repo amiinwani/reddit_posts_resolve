@@ -1,0 +1,39 @@
+# looking for a focus tracking app with actual detailed analytics
+
+im trying to figure out why im so unproductive and i think i need data to understand my patterns.
+
+like i THINK im working 5-6 hours a day but i have no idea if thats actually true or if im just sitting at my desk scrolling reddit and calling it "work". i need something that tracks my actual focused work time.
+
+what im looking for:
+
+**tracking features:**
+- timer that tracks how long im actually working on specific tasks/projects
+- ability to label different types of work (deep work, meetings, admin stuff, etc)
+- ideally automatic tracking of what apps im using? or at least easy manual logging
+
+**analytics i want to see:**
+- how many hours of REAL focused work do i do per day/week/month
+- what times of day am i most productive
+- how long are my average focus sessions
+- which projects/tasks am i spending the most time on
+- trends over time (am i getting better or worse at focusing?)
+
+**other stuff:**
+- needs to work on mac and ios (or at least one of them)
+- not interested in website blockers or distraction prevention, i specifically want TIME TRACKING and ANALYTICS
+- clean UI that makes me actually want to look at my stats
+- preferably not a $15/month subscription
+
+ive looked at:
+- toggl track - good for time tracking but not really "focus" specific and analytics are meh
+- rescuetime - automatic tracking is cool but its more about what apps you use, not actual focus sessions
+- timing (mac) - seems focused on billable hours for freelancers, overkill for me
+- forest - its a focus timer but no real analytics, just "you focused for 25 minutes"
+
+does something exist that specifically tracks and analyzes FOCUS TIME with good visualizations?
+
+like i want to be able to look back and see "last week you did 18 hours of deep work, mostly in the mornings, with average session length of 47 minutes" - that kind of detailed data.
+
+bonus points if it also has habit tracking so i can see how my work habits correlate with other habits (exercise, sleep, etc).
+
+any suggestions? or am i looking for something that doesnt exist yet?

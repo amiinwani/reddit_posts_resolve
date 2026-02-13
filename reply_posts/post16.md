@@ -1,0 +1,30 @@
+# serious question - how do you actually stop procrastinating on important stuff?
+
+i procrastinate on literally everything important. work deadlines? wait until the last minute. personal goals? never start them. habits i want to build? always "starting monday".
+
+but the annoying thing is i dont procrastinate on EVERYTHING. like i can binge watch a tv series no problem. i can scroll reddit for hours. i can hyperfocus on things that dont matter.
+
+its specifically important, meaningful things that i avoid. and i know its self-sabotage but knowing that doesnt help me stop.
+
+things ive tried that havent worked:
+- pomodoro technique (i just dont start the timer)
+- making to-do lists (satisfying to make, never look at them again)
+- setting deadlines for myself (i just ignore them because theyre not "real")
+- telling people my goals for accountability (i just feel guilty when i dont do it, still dont do them)
+- trying to "find my why" (i KNOW why i should do these things, i still dont do them)
+
+i think my issue is that im stuck in this cycle:
+1. i need to do important thing
+2. i feel anxious about doing important thing
+3. i avoid important thing to reduce anxiety
+4. i feel guilty about avoiding important thing
+5. guilt makes me more anxious
+6. repeat
+
+how do you break this cycle? like practically, what do you actually DO when you know you should work on something but every part of you just wants to do literally anything else?
+
+is this something an app can even help with or is this more of a therapy situation? because ive tried app blockers and they just make me stare at the wall instead of actually working.
+
+would really appreciate any advice from people whove actually overcome serious procrastination (not just "oh i procrastinate a bit sometimes" but like chronic, life-affecting procrastination).
+
+thanks

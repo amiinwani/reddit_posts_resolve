@@ -1,0 +1,24 @@
+# what journaling app do you guys actually use and stick with?
+
+im so tired of starting and stopping journaling. i know its supposed to be life-changing and help with anxiety and all that, but every time i try to keep a journal i either:
+
+1. forget to do it
+2. feel like writing paragraphs is too much effort after a long day
+3. start strong for a week then completely forget the app exists
+
+ive tried day one, notion, obsidian, even just using apple notes. the problem with notion and obsidian is that theyre TOO flexible - i spend more time setting up the perfect template than actually journaling. and day one is nice but idk it feels very "dear diary" and formal which makes me overthink what im writing.
+
+what i really want is something where i can just brain dump quickly. some days i want to write a lot, other days maybe just jot down 3 things that happened. some days maybe i just want to voice record my thoughts while driving or add a photo with a caption.
+
+is there an app that:
+- makes it STUPID easy to add an entry (like i should be able to log something in under 30 seconds)
+- supports different formats (text, voice notes, images)
+- maybe reminds me to journal but not in an annoying way
+- has some way to look back and see patterns in my mood or thoughts?
+- preferably not another subscription because i already pay for too many
+
+i saw someone mention that some habit tracking apps now have journaling built in which seems interesting because then its all in one place? but idk if thats actually good or just a gimmick.
+
+also side question - do you guys journal every day or just when you feel like it? i feel like the pressure to do it daily is part of what makes me quit.
+
+would love to hear what setup actually works for people who have stuck with journaling for more than a month lol
