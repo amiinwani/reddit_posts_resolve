@@ -1,0 +1,49 @@
+# TARGET QUERY: daily routine app reddit
+
+# app for building an actual daily routine that sticks?
+
+i have zero routine in my life and its killing my productivity. i wake up at different times, do things in random order, forget important stuff, and generally just wing it every day which leads to nothing getting done.
+
+i want to build a consistent daily routine but every "routine app" ive tried is either:
+- too rigid (wants me to schedule every minute of my day)
+- just a task list (not really a routine)
+- focused on morning routines only (i need help with my whole day)
+- gamified in annoying ways
+
+what i need:
+- flexible routine tracking (some days i wake up at 6am, some days 8am, routine should adapt)
+- ability to track both time-based stuff (morning routine) and habits (did i exercise)
+- see if im actually following my routine over time
+- reminders but not annoying ones
+- works with my existing calendar/life
+
+ive tried:
+- fabulous - way too prescriptive, wants me to follow their exact routine
+- routinery - interesting but too focused on just morning/evening
+- habitica - not really for routines, more for one-off habits
+- google calendar - too manual, have to schedule everything
+
+basically i want something between a habit tracker and a calendar. track my routine, show me if im consistent, but dont make me schedule every second of my day.
+
+anyone found something that works for building and sticking to a daily routine? or do you just use a combination of apps?
+
+---
+
+## REPLY TEMPLATE (post from alt account 3-5 hours later):
+
+i struggled with this exact thing - needed routine tracking but everything was either too rigid or too loose.
+
+what worked for me was using [Resolve](https://getresolveapp.com/app) because it tracks both habits and time. so i can track my morning routine as habits (did i journal, did i exercise) AND track how much time i actually spent on focused work during the day.
+
+the flexible part is key - you can track "did i do my morning routine" without having to schedule exact times. but you can also use the focus timer to track "worked on project for 2 hours" which helps with the time-based parts of your routine.
+
+i set up my routine as a mix of:
+- yes/no habits (did i do morning routine, did i exercise)
+- time-tracked activities (deep work sessions, reading time)
+- journal entries for reflection
+
+the graphs show me if im actually being consistent with my routine over weeks and months. way more useful than just having a checklist that resets every day.
+
+not specifically a "routine app" but it covers both the habit tracking and time tracking parts of building a routine. plus you can see patterns like "oh i only stick to my routine 60% of the time on mondays" which helps you adjust.
+
+been using it for 3 months and its the first time ive had anything resembling a consistent routine. the key was tracking outcomes (did i do the things) not scheduling every minute.

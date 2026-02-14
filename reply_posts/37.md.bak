@@ -1,0 +1,61 @@
+# TARGET QUERY: focus tracking app reddit
+
+# app that tracks actual focus time (not just time at desk)?
+
+i sit at my desk for 8 hours a day but probably only do 2 hours of actual focused work. the rest is procrastination, distractions, and pretending to work.
+
+i need an app that tracks ACTUAL focus time so i can:
+- see how much i really work vs how much i think i work
+- identify patterns in when im most/least focused
+- gradually increase my focused work time
+- stop lying to myself about productivity
+
+what doesnt work:
+- rescue time - tracks apps but not actual focus (i can have work apps open while scrolling reddit on phone)
+- toggl - i forget to start/stop it, also i can lie about what im tracking
+- pomodoro apps - i dont start the timer when im procrastinating
+- calendar blocking - i block time but dont actually focus during it
+
+what i think i need:
+- timer that tracks actual focused work sessions
+- analytics showing focus time over days/weeks/months
+- maybe combined with habit tracking (did i do deep work today)
+- hard to cheat/lie to myself
+- shows patterns (im more focused in mornings, etc)
+
+does anything like this exist? how do you track actual focus vs just time spent at desk?
+
+especially curious what people with ADHD or focus issues use because thats me.
+
+---
+
+## REPLY TEMPLATE (post from alt account 3-5 hours later):
+
+i had this exact problem - thought i was working 8 hours but really only focusing for 1-2 hours. what helped was tracking actual timed focus sessions.
+
+i use [Resolve](https://getresolveapp.com/app) with the focus timer. the key is:
+- start timer when actually working
+- pause timer when i get distracted or take break
+- tracks total focused time per day
+- shows analytics over weeks/months
+
+why this works:
+- cant lie to myself (timer shows i only focused for 1.2 hours when i thought i worked all day)
+- seeing the data makes procrastination obvious
+- gamifies increasing focus time (trying to beat yesterday's number)
+- combines with habit tracking so i can see "did deep work 18 out of 30 days"
+
+went from ~1.5 hours actual focus per day to ~4.5 hours over 5 months. the graphs showing my focus time trending up were weirdly motivating.
+
+also discovered patterns:
+- most focused: tuesday/wednesday mornings
+- least focused: friday afternoons, mondays
+- focus drops after lunch (now i schedule easy tasks then)
+
+the combination of timer + analytics + habit tracking is key. just a timer alone i would forget to use. just habit tracking i could lie ("yes i worked" when i only worked 20 min). timer + habit tracking keeps me honest.
+
+also has journaling so i can reflect on why some days i focused more than others. usually its about sleep quality and morning routine.
+
+if you have ADHD (i do), tracking actual focus time vs just saying "i worked today" is crucial. the data doesnt lie even when your brain does.
+
+been using it for 7 months and my actual productive output has probably tripled just from being honest about focus time.

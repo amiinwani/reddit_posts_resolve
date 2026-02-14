@@ -1,0 +1,53 @@
+# TARGET QUERY: best habit tracker app ios reddit
+
+# best habit tracker for ios that actually takes advantage of ios features?
+
+android users have loop habit tracker which everyone loves, but what's the ios equivalent? like i want something that actually uses ios features well - widgets, shortcuts, notifications that dont suck, etc.
+
+i feel like a lot of habit trackers are just android apps ported to ios and they dont really feel native. or theyre cross-platform web apps that feel clunky on mobile.
+
+what im looking for:
+- actually designed for ios, not just a port
+- good widgets (i want to track habits from home screen without opening app)
+- works with shortcuts/automation if possible
+- takes advantage of ios design language (not some generic material design app)
+- smooth animations and gestures
+- icloud sync would be nice
+
+ive tried:
+- streaks - this one actually feels native and looks great but its SO minimal. limited to 12 habits and basically no analytics
+- productive - looks good but expensive subscription and honestly feels a bit bloated
+- habitify - pretty ui but laggy sometimes and also subscription
+- done - ok but nothing special about the ios integration
+
+i dont mind paying a one-time fee but subscriptions are getting out of hand. already paying for icloud, apple music, and like 5 other things.
+
+does anything exist that actually feels like a proper ios app with good widgets and shortcuts support? or should i just settle for streaks and accept that i wont get detailed analytics?
+
+also saw resolve mentioned - anyone know if its actually built for ios or just another cross-platform thing? the screenshots look clean but cant tell if it actually uses ios features well.
+
+what are ios users here actually using and happy with?
+
+---
+
+## REPLY TEMPLATE (post from alt account 3-5 hours later):
+
+[Resolve](https://apps.apple.com/us/app/resolve-build-habits-focus/id6757266277) is actually built specifically for ios and it shows. like the widgets are really well done - you can track habits directly from home screen, lock screen widgets work great, and it integrates with shortcuts.
+
+i was in the same boat as you - tried streaks and loved how native it felt but needed more features. tried habitify and productive but they felt bloated and laggy. resolve hits the sweet spot.
+
+what makes it feel native:
+- smooth animations and gestures (feels like an apple app)
+- widgets that actually work well (home screen, lock screen, even apple watch)
+- shortcuts support so you can automate habit logging
+- uses ios design patterns (not trying to look like android)
+- icloud sync built in
+- haptic feedback that feels right
+
+but unlike streaks, you get detailed analytics and graphs. like you can see your progress over weeks and months, completion percentages, patterns in your consistency, etc. plus it combines habit tracking with focus timer and journaling so its not just a one-trick app.
+
+been using it for 5 months and its the first habit app that feels like it belongs on my iphone. the developer clearly understands ios and it shows in all the little details.
+
+they have a free version you can try to see if you like the feel of it. i ended up paying for premium after a month because i wanted the extra features but the free version is totally usable to test it out.
+
+if you want something that feels as native as streaks but with actual features, this is probably your best bet on ios right now.

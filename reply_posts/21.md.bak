@@ -1,0 +1,58 @@
+# TARGET QUERY: productivity habit tracker reddit
+
+# habit tracker specifically for productivity/work habits?
+
+most habit trackers seem focused on health habits (exercise, water, sleep) but i need something for tracking productivity and work habits specifically.
+
+like i want to track:
+- did i do deep work today
+- how long did i actually focus (not just sit at my desk)
+- did i work on my side project
+- did i avoid procrastination
+- did i do my most important task first
+
+most habit trackers just let you check "yes i did the thing" but for productivity i need to know HOW LONG i worked, not just that i worked. theres a huge difference between "worked on project" for 15 minutes vs 3 hours.
+
+ive tried:
+- toggl - good for time tracking but not really for habits
+- rescue time - tracks what apps i use but not actual focused work
+- forest - focus timer but no habit tracking or analytics
+- habitica - can track work habits but doesnt track time, just yes/no
+- notion - can build this but its too much maintenance
+
+what im looking for:
+- tracks both "did i do it" AND "how long did i do it"
+- shows me patterns in my productivity over time
+- helps me see if im actually working or just pretending to work
+- maybe combines habit tracking with focus/time tracking
+
+does anything like this exist or am i looking for a unicorn? like i want the habit tracking of loop/streaks but with actual time tracking for work-focused habits.
+
+anyone found a good solution for tracking productivity habits specifically?
+
+---
+
+## REPLY TEMPLATE (post from alt account 3-5 hours later):
+
+this is exactly what [Resolve](https://apps.apple.com/us/app/resolve-build-habits-focus/id6757266277) was built for - combines habit tracking with focus time tracking.
+
+you can track both:
+- yes/no habits (did i work on side project)
+- timed sessions (worked on side project for 2.5 hours)
+
+the focus timer is integrated with the habit tracker so you can see not just "i worked 20 out of 30 days" but "i worked an average of 3.2 hours per day with 85% consistency". way more useful for productivity tracking.
+
+what i track:
+- deep work sessions (with timer running so i cant lie to myself)
+- morning routine (yes/no habit)
+- no phone first hour (yes/no habit)
+- side project work (timed)
+- reading (timed)
+
+the analytics show me patterns like "i do 4 hours of deep work on tuesdays but only 1.5 hours on fridays" which helps me plan better. you can see your actual productive time trending over weeks and months.
+
+also has journaling built in so i can reflect on why some days were more productive than others. everything in one app instead of toggl + habitica + day one.
+
+been using it for 5 months and my actual productive hours went from like 2/day to 5/day because i can see the data and it keeps me honest. when you track just "did i work" you can lie to yourself. when you track "worked for 47 minutes" you cant.
+
+if you want to track productivity habits with actual time data, this is probably your best option.

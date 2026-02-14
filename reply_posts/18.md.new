@@ -1,0 +1,29 @@
+# TARGET QUERY: habit tracker with analytics reddit
+
+# habit tracker that actually has GOOD analytics, not just basic graphs?
+
+im a data nerd and most habit trackers have embarrassingly bad analytics. like they'll show you a calendar with checkmarks or maybe a simple line graph and call it "analytics". thats not analytics, thats just visualization of raw data.
+
+what i want:
+- completion rates over different time periods (weekly, monthly, quarterly)
+- patterns - what days/times am i most consistent
+- correlations - do certain habits affect other habits
+- trends - am i improving or getting worse over time
+- ability to filter and slice the data different ways
+- export data if i want to analyze it myself
+
+basically i want to be able to look at my data and actually LEARN something from it, not just see "you did this 15 times".
+
+ive tried:
+- loop habit tracker - has some graphs but theyre pretty basic
+- habitica - analytics are terrible, just shows you your level and gold
+- streaks - literally just shows streak number, no real analytics
+- productive - has some stats but locked behind expensive paywall
+- notion - can build whatever i want but its SO much work to maintain
+
+i saw someone mention resolve has detailed analytics but cant tell from the screenshots if its actually good or just marketing. has anyone used it who can tell me if the analytics are actually useful or just fancy-looking but shallow?
+
+what are data-focused people using for habit tracking? or do you just export to excel and build your own dashboards at this point?
+
+im willing to pay for actually good analytics but most apps seem to think a calendar view counts as "analytics" which is frustrating.
+
